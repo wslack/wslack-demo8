@@ -11,10 +11,6 @@ image: /assets/img/about.jpg
 
 GSA provides American workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
 
-If I want to do bold, I use **stars.**
-
-This is a test sentence. This is a second test sentence. This is a third test sentence!
-
 ![constitution.jpg]({{ site.baseurl }}/assets/constitution.jpg)
 
 ### Mission
